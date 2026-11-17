@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# AWS / secrets
+.env
+*.pem
+
+# Build artifacts
+*.zip
+
+# OS junk
+.DS_Store
+__MACOSX/
+Thumbs.db
